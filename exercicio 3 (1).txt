@@ -1,0 +1,17 @@
+1) Simula um dado denso lançado
+
+2) As variaveis são: resultado, chutes, comparacao, acertos, acuracia
+
+3) Sim random.
+
+4) Escolher os números aleatóriamente de 1 a 6
+
+5) No sistema 1 o for é usado para gerar os números e o if para comparar eles com o chute do usuário, enquanto no 2 o for gera os números e  chute enquanto o if compara.
+
+6) No sistema 1 o usuário pode digitar para tentar acertar o número que será gerado.
+
+7) No sistema 2 os números do chute são gerados automáticamente.
+
+8) Aceitam números maior que 6 sendo que um dado tem 6 lados.
+
+9) Aceitar somente números até 6.
